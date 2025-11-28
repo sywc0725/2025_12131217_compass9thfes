@@ -1072,7 +1072,7 @@ export default function App() {
         <div className="absolute top-[-20px] right-[-20px] opacity-20 rotate-12">
           <Heart size={150} fill="currentColor" />
         </div>
-        <h1 className="text-2xl font-bold mb-1 tracking-wide">吉伊卡哇東京之旅</h1>
+        <h1 className="text-2xl font-bold mb-1 tracking-wide">打架9周年東京之旅</h1>
         <div className="flex items-center opacity-90 text-sm">
           <Plane size={14} className="mr-2"/> 
           <span>12/13 - 12/17</span>
@@ -1296,4 +1296,5 @@ export default function App() {
       `}</style>
     </div>
   );
+
 }
